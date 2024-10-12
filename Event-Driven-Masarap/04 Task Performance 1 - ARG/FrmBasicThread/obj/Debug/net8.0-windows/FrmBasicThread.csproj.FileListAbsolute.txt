@@ -1,0 +1,16 @@
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.Form1.resources
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.AssemblyInfoInputs.cache
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.AssemblyInfo.cs
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.exe
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.deps.json
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.runtimeconfig.json
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.dll
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.pdb
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.dll
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\refint\FrmBasicThread.dll
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.pdb
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.genruntimeconfig.cache
+C:\Users\Comlab1\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\net8.0-windows\ref\FrmBasicThread.dll
